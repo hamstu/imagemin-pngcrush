@@ -30,7 +30,7 @@
   "dependencies": {
     "exec-buffer": "^0.1.0",
     "image-type": "^0.1.1",
-    "pngcrush-bin": "^0.1.10"
+    "pngcrush-bin": "^0.1.18"
   },
   "devDependencies": {
     "imagemin": "^0.4.7",
